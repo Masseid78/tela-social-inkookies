@@ -12,7 +12,7 @@ const links = [
   {
     title: 'Cartão Fidelidade',
     description: 'Seja um dos primeiros assinantes! 🤎',
-    href: 'https://instagram.com/inkookielab',
+    href: 'https://www.infiniteloyalty.com.br/#/login',
     icon: 'loyalty',
   },
   {
